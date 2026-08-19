@@ -14,7 +14,8 @@ Space themed amusement park that was built in unity. Done with the help of the C
 4. Roller Coaster that the player mounts onto after stepping onto the staircase marker, after standing still on the marker for 3 seconds, the player is mounted on the roller coaster, and automatically unmounted by the end of the ride.
 </p>
 
-
+#### Notes
+I had access to the VR lab due to the summer program, but since it has ended, I can no longer work on the project for the time being. Within a few weeks I should be able to regain acces to the lab, and will add more features, and update this GitHub Repo. 
 
 ### Imported Models
   - Ferris Wheel: "Carnival Ferris Wheel 🎡" (https://skfb.ly/oMEQN) by Glowbox 3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
