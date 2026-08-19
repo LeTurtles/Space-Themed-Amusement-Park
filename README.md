@@ -2,7 +2,7 @@
 # Space-Themed-Amusement-Park
 <img width="2407" height="1237" alt="Screenshot of the VR amusement Park" src="https://github.com/user-attachments/assets/18213387-7f7e-455b-a65b-72c7f261718c" />
 </p>
-Space themed amusement park that was built in unity. Done with the help of the CSUDH Physics Department, Led by Dr. Horrace Crogman. I was mentored by Teacher assistants and was allowed to borrow the Meta Quest headsets in the lab to create this project. Unity tutorials, Use of LLM's such as chatGPT/Claude, Sketchfab imported models are included.
+Space themed amusement park that was built in unity. Done with the help of the CSUDH Physics Department, Led by Dr. Horrace Crogman. I was mentored by Teacher assistants and was allowed to borrow the Meta Quest headsets in the lab to create this project. Unity tutorials, Use of LLM's such as chatGPT/Claude, Sketchfab imported models are included. The Use of the LLM's were used to fix the initial bugs of the depricated files of the original template, as well as the very very specific codes that make the Ferris wheel spin, and player mount the roller coaster. The paths of motion they follow, and small debugging of the initial code frame done by these LLM's were modified by me. 
 </p>
 <img width="4608" height="3456" alt="Esvin Hernandez VR Research Poster (1)" src="https://github.com/user-attachments/assets/f4b15860-615e-4bdb-b446-dc6916972345" />
 </p>
@@ -12,6 +12,7 @@ Space themed amusement park that was built in unity. Done with the help of the C
 2. Shoot down the UFO's game, where you use slingshots to shoot balls, knocking down UFOs in the air within the time limit.
 3. Rotating NASA rover hologram near the couch. (not interactable)
 4. Roller Coaster that the player mounts onto after stepping onto the staircase marker, after standing still on the marker for 3 seconds, the player is mounted on the roller coaster, and automatically unmounted by the end of the ride.
+5. The Ferris Wheel at the top currently spins, but isn't player mountable. (Work in progress, will add feature once headset access is regained)
 </p>
 
 #### Notes
